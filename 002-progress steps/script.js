@@ -10,6 +10,7 @@ next.addEventListener("click", () => {
   if (currentActive > circles.length) currentActive = circles.length;
   update();
 });
+//Jai Balayya
 
 prev.addEventListener("click", () => {
   currentActive--;
