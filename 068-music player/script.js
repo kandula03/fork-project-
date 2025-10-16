@@ -10,6 +10,7 @@ const cover = document.getElementById("cover");
 
 const songs = ["hey", "summer", "ukulele"];
 let songIndex = 1;
+// play some ntr songs and allu arjun songs fron spotify play list
 
 function getSongTitle(song) {
   return song.charAt(0).toUpperCase() + song.slice(1);
