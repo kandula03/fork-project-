@@ -7,6 +7,7 @@ const hideAllContents = () => {
 const hideAllItems = () => {
   listItems.forEach((item) => item.classList.remove("active"));
 };
+// siva @215725
 
 listItems.forEach((item, index) => {
   item.addEventListener("click", () => {
