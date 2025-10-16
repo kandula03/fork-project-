@@ -12,6 +12,7 @@ body {
   height: 100vh;
   overflow: hidden; /* to hide scrollbars */
   margin: 0;
+  //height:6
 }
 
 .container {
