@@ -8,6 +8,7 @@ const removeActive = () => {
   for (let i = 0; i < ratings.length; i++) {
     ratings[i].classList.remove("active");
   }
+  // change to java to python file here.....
 };
 
 ratingsContainer.addEventListener("click", (e) => {
