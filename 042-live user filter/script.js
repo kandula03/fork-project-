@@ -11,6 +11,7 @@ const filterData = (searchTerm) => {
     }
   });
 };
+// naga siva @215725035203
 
 const getData = async () => {
   const res = await fetch("https://randomuser.me/api?results=50");
